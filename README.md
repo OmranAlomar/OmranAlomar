@@ -21,7 +21,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesforce-developer-edition.vercel.app/api?username=OmranAlomar&show_icons=true&theme=dark" alt="Omran's GitHub Stats" />
+  <img src="https://img.shields.io/github/followers/OmranAlomar?label=Followers&style=for-the-badge&color=blue&logo=github" />
+  <img src="https://img.shields.io/github/stars/OmranAlomar?label=Stars&style=for-the-badge&color=yellow&logo=github" />
 </p>
 
 ---
