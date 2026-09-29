@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmranAlomar&show_icons=true&theme=dark" alt="Omran's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmranAlomar&theme=react-dark" alt="Omran's Activity Graph" />
 </p>
 
 ---
