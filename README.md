@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmranAlomar&theme=2077" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmranAlomar&theme=github-compact" alt="Omran's Activity Graph" />
 </p>
 
 ---
