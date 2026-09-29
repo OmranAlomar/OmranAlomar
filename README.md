@@ -21,9 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OmranAlomar&theme=onedark&column=4" alt="Omran's Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmranAlomar&theme=2077" alt="GitHub Stats" />
 </p>
 
 ---
