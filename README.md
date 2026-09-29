@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Omran Al-Omar
 
-<!--
-**OmranAlomar/OmranAlomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 IT Engineer specializing in Cybersecurity
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cybersecurity projects, network security, and infrastructure analysis.
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/omran-alomar-ba9017438)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+<p left>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmranAlomar&show_icons=true&theme=dark" alt="Omran's GitHub Stats" />
+</p>
+
+---
+
+### 💡 Dev Quote
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 👁️ Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=OmranAlomar&color=blue&style=flat-square)
