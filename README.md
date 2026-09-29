@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/OmranAlomar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FDamascus" alt="Omran's GitHub Stats" />
+  <img src="https://github-readme-stats-salesforce-developer-edition.vercel.app/api?username=OmranAlomar&show_icons=true&theme=dark" alt="Omran's GitHub Stats" />
 </p>
 
 ---
