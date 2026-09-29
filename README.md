@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmranAlomar&theme=react-dark" alt="Omran's Activity Graph" />
+  <img src="https://metrics.lecoq.io/OmranAlomar?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FDamascus" alt="Omran's GitHub Stats" />
 </p>
 
 ---
